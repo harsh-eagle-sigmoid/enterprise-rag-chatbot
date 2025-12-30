@@ -6,3 +6,4 @@ def get_embedding_model():
         model_kwargs={"device": "cpu"},
         encode_kwargs={"normalize_embeddings": True}
     )
+
