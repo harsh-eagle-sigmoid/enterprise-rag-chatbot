@@ -4,9 +4,14 @@ langchain-community==0.0.36
 langchain-text-splitters==0.0.1
 
 langchain-groq
-python-dotenv
 
-faiss-cpu
+
 sentence-transformers
-streamlit
+faiss-cpu
 pypdf
+huggingface-hub
+transformers
+torch
+groq
+python-dotenv
+reportlab
