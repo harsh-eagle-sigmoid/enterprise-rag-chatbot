@@ -11,7 +11,7 @@ faiss-cpu
 pypdf
 huggingface-hub
 transformers
-torch
+torch==2.1.2
 groq
 python-dotenv
 reportlab
